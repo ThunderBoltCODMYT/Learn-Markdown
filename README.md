@@ -15,4 +15,6 @@ what is markdown, why markdown, benefit of usinng markdown, who uses markdown, d
   hola!
 </details>
 
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$.
+
 This Repository Is Made For Anyone Who Wants To Learn Markdown - Any Flavour
